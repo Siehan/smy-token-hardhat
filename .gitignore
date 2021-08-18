@@ -1,0 +1,23 @@
+node_modules
+#Hardhat files
+cache
+artifacts
+#VSCode files
+.vscode
+#dotenv
+.env
+#docgen
+docs
+.DS_Store
+*.tsbuildinfo
+dist
+cache
+artifacts
+build
+.openzeppelin
+*.tgz
+.nyc_output
+coverage
+
+/examples
+package-lock.json
